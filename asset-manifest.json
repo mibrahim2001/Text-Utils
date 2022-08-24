@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//mibrahim2001.github.io/Text-Utils/static/css/main.073c9b0a.css",
+    "main.js": "//mibrahim2001.github.io/Text-Utils/static/js/main.50ef77d8.js",
+    "static/js/787.28cb0dcd.chunk.js": "//mibrahim2001.github.io/Text-Utils/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "//mibrahim2001.github.io/Text-Utils/index.html",
+    "main.073c9b0a.css.map": "//mibrahim2001.github.io/Text-Utils/static/css/main.073c9b0a.css.map",
+    "main.50ef77d8.js.map": "//mibrahim2001.github.io/Text-Utils/static/js/main.50ef77d8.js.map",
+    "787.28cb0dcd.chunk.js.map": "//mibrahim2001.github.io/Text-Utils/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.50ef77d8.js"
+  ]
+}
