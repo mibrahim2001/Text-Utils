@@ -68,7 +68,7 @@ export default function TextForm(props) {
 
   const calculateWords = () => {
     let numOfWords = 0;
-    let words = text.split(" ");
+    let words = text.split(/[\s]+/);
     let length = words.length;
     numOfWords = words[length - 1] === "" || words[length - 1] === " " ? length - 1 : length;
     return numOfWords;
@@ -133,7 +133,7 @@ export default function TextForm(props) {
       </div>
       <div className="container mb-3">
         <h2>Preview</h2>
-        <p>{text.length > 0 ? text:'Enter your text to preview here!'}</p>
+        <p>{text.length > 0 ? text : "Enter your text to preview here!"}</p>
       </div>
     </div>
   );
