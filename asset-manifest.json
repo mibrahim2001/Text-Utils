@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "//mibrahim2001.github.io/Text-Utils/static/css/main.073c9b0a.css",
-    "main.js": "//mibrahim2001.github.io/Text-Utils/static/js/main.50ef77d8.js",
-    "static/js/787.28cb0dcd.chunk.js": "//mibrahim2001.github.io/Text-Utils/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "//mibrahim2001.github.io/Text-Utils/index.html",
-    "main.073c9b0a.css.map": "//mibrahim2001.github.io/Text-Utils/static/css/main.073c9b0a.css.map",
-    "main.50ef77d8.js.map": "//mibrahim2001.github.io/Text-Utils/static/js/main.50ef77d8.js.map",
-    "787.28cb0dcd.chunk.js.map": "//mibrahim2001.github.io/Text-Utils/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Text-Utils/static/css/main.073c9b0a.css",
+    "main.js": "/Text-Utils/static/js/main.b53c75b2.js",
+    "static/js/787.30f7ed28.chunk.js": "/Text-Utils/static/js/787.30f7ed28.chunk.js",
+    "index.html": "/Text-Utils/index.html",
+    "main.073c9b0a.css.map": "/Text-Utils/static/css/main.073c9b0a.css.map",
+    "main.b53c75b2.js.map": "/Text-Utils/static/js/main.b53c75b2.js.map",
+    "787.30f7ed28.chunk.js.map": "/Text-Utils/static/js/787.30f7ed28.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.50ef77d8.js"
+    "static/js/main.b53c75b2.js"
   ]
 }
